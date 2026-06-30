@@ -47,6 +47,8 @@ AI-Based-Exam-Proctoring-and-Evaluation-System/
 │   └── AI Presentation.pdf        # Project presentation slides
 ├── paper/
 │   └── Research Paper publish.pdf  # Published research paper
+├── output screen shot/            # System output screenshots
+│   └── *.png                      # 6 screenshots demonstrating system in action
 ├── .gitignore
 └── README.md
 ```
@@ -104,6 +106,19 @@ All system parameters can be tuned via [`proctor_config.json`](proctor_config.js
 
 - 📑 [**Project Presentation**](presentation/AI%20Presentation.pdf) — Overview slides covering architecture, features, and demo
 - 📝 [**Research Paper**](paper/Research%20Paper%20publish.pdf) — Published research paper with methodology, results, and analysis
+
+---
+
+## 📸 Output Screenshots
+
+| Screenshot | Preview |
+|---|---|
+| Proctoring System - View 1 | ![Screenshot 1](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.16.12%E2%80%AFPM.png) |
+| Proctoring System - View 2 | ![Screenshot 2](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.16.26%E2%80%AFPM.png) |
+| Proctoring System - View 3 | ![Screenshot 3](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.16.32%E2%80%AFPM.png) |
+| Proctoring System - View 4 | ![Screenshot 4](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.16.42%E2%80%AFPM.png) |
+| Proctoring System - View 5 | ![Screenshot 5](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.16.57%E2%80%AFPM.png) |
+| Proctoring System - View 6 | ![Screenshot 6](output%20screen%20shot/Screenshot%202026-06-24%20at%2011.19.43%E2%80%AFPM.png) |
 
 ---
 
