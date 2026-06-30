@@ -1,0 +1,31 @@
+{
+    "fullscreen": true,
+    "show_preview": true,
+    "preview_width": 320,
+    "preview_height": 240,
+    "camera_width": 1280,
+    "camera_height": 720,
+    "process_every": 2,
+    "history_max": 15,
+    "gaze_warning_cooldown": 2.5,
+    "multi_person_cooldown": 3.0,
+    "no_face_cooldown": 5.0,
+    "phone_detection_interval": 10,
+    "audio_threshold": 500,
+    "gaze_thresholds": {
+        "left": 0.38,
+        "right": 0.62,
+        "up": 0.35,
+        "down": 0.65
+    },
+    "ear_threshold": 0.2,
+    "voice_rate": 150,
+    "voice_volume": 0.9,
+    "reports_folder": "Reports",
+    "log_retention_days": 30,
+    "screenshot_interval_sec": 30,
+    "screen_record_fps": 10,
+    "allowed_exam_domains": [
+        "example-exam.com"
+    ]
+}
